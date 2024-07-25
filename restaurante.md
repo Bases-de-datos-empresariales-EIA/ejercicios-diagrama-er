@@ -46,4 +46,4 @@ Un restaurante necesita un sistema para gestionar sus productos, pedidos, mesas,
   
 
 # Solución
-(Diagrama ER)[https://www.figma.com/board/v56o0K9xCsLGH3vjP0A5al/Sistema-de-restaurantes?node-id=0-1&t=g2X5IoLh1QK5xTaU-1]
+[Diagrama ER](https://www.figma.com/board/v56o0K9xCsLGH3vjP0A5al/Sistema-de-restaurantes?node-id=0-1&t=g2X5IoLh1QK5xTaU-1)
