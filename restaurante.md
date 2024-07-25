@@ -1,4 +1,4 @@
-### Ejemplo 2 Actualizado: Gestión de Restaurante
+# Gestión de Restaurantes
 
 #### Contexto del Negocio
 
